@@ -8,6 +8,12 @@
   font-family: "Roboto", sans-serif;
 }
 
+body{
+  height: 100vh;
+  background:linear-gradient(rgb(255, 240, 240),rgb(114, 40, 40))
+}
+
+
 @import "features";
 @import "header";
 @import "login";
